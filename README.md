@@ -1,5 +1,8 @@
 # Useful-JSONs
 
+![GitHub repo size](https://img.shields.io/github/repo-size/CollinBeurskens/Useful-Jsons)
+![GitHub last commit](https://img.shields.io/github/last-commit/CollinBeurskens/Useful-Jsons)
+
 A collection of useful JSON files containing structured data on various topics. This repository aims to provide easily accessible datasets in JSON format for developers, researchers, and enthusiasts to use in projects, analyses, or applications.
 
 ## Table of Contents
@@ -34,5 +37,4 @@ This repository currently includes the following JSON files:
 1. **Clone the Repository**  
    Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/CollinBeurskens/Useful-Jsons.git### The original website :
-https://websearcher.netlify.app/
+   git clone https://github.com/CollinBeurskens/Useful-Jsons.git
