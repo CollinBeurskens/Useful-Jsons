@@ -1,0 +1,702 @@
+[
+    {
+        "rank": 1,
+        "name": "MrBeast",
+        "videos": 851,
+        "subscribers": "371M",
+        "views": "74.39B"
+    },
+    {
+        "rank": 2,
+        "name": "T-Series",
+        "videos": 22850,
+        "subscribers": "288M",
+        "views": "287.74B"
+    },
+    {
+        "rank": 3,
+        "name": "Cocomelon - Nursery Rhymes",
+        "videos": 1450,
+        "subscribers": "190M",
+        "views": "198.33B"
+    },
+    {
+        "rank": 4,
+        "name": "SET India",
+        "videos": 152320,
+        "subscribers": "182M",
+        "views": "175.19B"
+    },
+    {
+        "rank": 5,
+        "name": "Vlad and Niki",
+        "videos": 867,
+        "subscribers": "135M",
+        "views": "103.18B"
+    },
+    {
+        "rank": 6,
+        "name": "✿ Kids Diana Show",
+        "videos": 1320,
+        "subscribers": "131M",
+        "views": "111.84B"
+    },
+    {
+        "rank": 7,
+        "name": "Like Nastya",
+        "videos": 929,
+        "subscribers": "126M",
+        "views": "110.4B"
+    },
+    {
+        "rank": 8,
+        "name": "Stokes Twins",
+        "videos": 350,
+        "subscribers": "116M",
+        "views": "19.07B"
+    },
+    {
+        "rank": 9,
+        "name": "Zee Music Company",
+        "videos": 13710,
+        "subscribers": "115M",
+        "views": "75.05B"
+    },
+    {
+        "rank": 10,
+        "name": "PewDiePie",
+        "videos": 4810,
+        "subscribers": "110M",
+        "views": "29.5B"
+    },
+    {
+        "rank": 11,
+        "name": "WWE",
+        "videos": 82840,
+        "subscribers": "107M",
+        "views": "92.15B"
+    },
+    {
+        "rank": 12,
+        "name": "Goldmines",
+        "videos": 10040,
+        "subscribers": "103M",
+        "views": "29.54B"
+    },
+    {
+        "rank": 13,
+        "name": "Sony SAB",
+        "videos": 96810,
+        "subscribers": "99.7M",
+        "views": "126.28B"
+    },
+    {
+        "rank": 14,
+        "name": "BLACKPINK",
+        "videos": 605,
+        "subscribers": "96.1M",
+        "views": "37.88B"
+    },
+    {
+        "rank": 15,
+        "name": "ChuChu TV Nursery Rhymes & Kids Songs",
+        "videos": 877,
+        "subscribers": "95.3M",
+        "views": "54.12B"
+    },
+    {
+        "rank": 16,
+        "name": "김프로KIMPRO",
+        "videos": 3020,
+        "subscribers": "91.3M",
+        "views": "56.7B"
+    },
+    {
+        "rank": 17,
+        "name": "Zee TV",
+        "videos": 201630,
+        "subscribers": "88.3M",
+        "views": "100.48B"
+    },
+    {
+        "rank": 18,
+        "name": "Alan's Universe",
+        "videos": 1340,
+        "subscribers": "84M",
+        "views": "50.45B"
+    },
+    {
+        "rank": 19,
+        "name": "5-Minute Crafts",
+        "videos": 7520,
+        "subscribers": "81.1M",
+        "views": "28.03B"
+    },
+    {
+        "rank": 20,
+        "name": "Baby Shark - Pinkfong Kids’ Songs & Stories",
+        "videos": 3480,
+        "subscribers": "80.7M",
+        "views": "48.48B"
+    },
+    {
+        "rank": 21,
+        "name": "BANGTANTV",
+        "videos": 2720,
+        "subscribers": "79.9M",
+        "views": "24.41B"
+    },
+    {
+        "rank": 22,
+        "name": "Colors TV",
+        "videos": 221690,
+        "subscribers": "79.2M",
+        "views": "78.39B"
+    },
+    {
+        "rank": 23,
+        "name": "HYBE LABELS",
+        "videos": 2320,
+        "subscribers": "76.6M",
+        "views": "38.25B"
+    },
+    {
+        "rank": 24,
+        "name": "A4",
+        "videos": 983,
+        "subscribers": "76.2M",
+        "views": "32.24B"
+    },
+    {
+        "rank": 25,
+        "name": "Justin Bieber",
+        "videos": 249,
+        "subscribers": "74.9M",
+        "views": "34.32B"
+    },
+    {
+        "rank": 26,
+        "name": "ZAMZAM ELECTRONICS TRADING",
+        "videos": 19790,
+        "subscribers": "74.8M",
+        "views": "35.79B"
+    },
+    {
+        "rank": 27,
+        "name": "T-Series Bhakti Sagar",
+        "videos": 29610,
+        "subscribers": "74.4M",
+        "views": "38.51B"
+    },
+    {
+        "rank": 28,
+        "name": "UR · Cristiano",
+        "videos": 95,
+        "subscribers": "74.1M",
+        "views": "802.95M"
+    },
+    {
+        "rank": 29,
+        "name": "Tips Official",
+        "videos": 7360,
+        "subscribers": "73.2M",
+        "views": "45.05B"
+    },
+    {
+        "rank": 30,
+        "name": "Toys and Colors",
+        "videos": 1470,
+        "subscribers": "72.7M",
+        "views": "88.59B"
+    },
+    {
+        "rank": 31,
+        "name": "Shemaroo Filmi Gaane",
+        "videos": 9210,
+        "subscribers": "71.2M",
+        "views": "31.7B"
+    },
+    {
+        "rank": 32,
+        "name": "Aaj Tak",
+        "videos": 438470,
+        "subscribers": "70.4M",
+        "views": "37.4B"
+    },
+    {
+        "rank": 33,
+        "name": "Infobells - Hindi",
+        "videos": 756,
+        "subscribers": "68.7M",
+        "views": "41.27B"
+    },
+    {
+        "rank": 34,
+        "name": "KL BRO Biju Rithvik",
+        "videos": 3020,
+        "subscribers": "68.6M",
+        "views": "60.72B"
+    },
+    {
+        "rank": 35,
+        "name": "El Reino Infantil",
+        "videos": 1740,
+        "subscribers": "68.1M",
+        "views": "65.66B"
+    },
+    {
+        "rank": 36,
+        "name": "Canal KondZilla",
+        "videos": 3180,
+        "subscribers": "67.6M",
+        "views": "39.16B"
+    },
+    {
+        "rank": 37,
+        "name": "HAR PAL GEO",
+        "videos": 161030,
+        "subscribers": "65.5M",
+        "views": "67.5B"
+    },
+    {
+        "rank": 38,
+        "name": "Fede Vigevani",
+        "videos": 1470,
+        "subscribers": "65M",
+        "views": "19.37B"
+    },
+    {
+        "rank": 39,
+        "name": "Mark Rober",
+        "videos": 199,
+        "subscribers": "65M",
+        "views": "10.42B"
+    },
+    {
+        "rank": 40,
+        "name": "Wave Music",
+        "videos": 20590,
+        "subscribers": "64.8M",
+        "views": "44.73B"
+    },
+    {
+        "rank": 41,
+        "name": "YRF",
+        "videos": 4430,
+        "subscribers": "64.3M",
+        "views": "46.39B"
+    },
+    {
+        "rank": 42,
+        "name": "EminemMusic",
+        "videos": 197,
+        "subscribers": "64.3M",
+        "views": "33.25B"
+    },
+    {
+        "rank": 43,
+        "name": "Sony Music India",
+        "videos": 6390,
+        "subscribers": "64.2M",
+        "views": "33.97B"
+    },
+    {
+        "rank": 44,
+        "name": "Movieclips",
+        "videos": 42180,
+        "subscribers": "63.6M",
+        "views": "65.07B"
+    },
+    {
+        "rank": 45,
+        "name": "Alejo Igoa",
+        "videos": 1180,
+        "subscribers": "61.7M",
+        "views": "21.77B"
+    },
+    {
+        "rank": 46,
+        "name": "ARY Digital HD",
+        "videos": 163420,
+        "subscribers": "61.6M",
+        "views": "61.73B"
+    },
+    {
+        "rank": 47,
+        "name": "Dude Perfect",
+        "videos": 474,
+        "subscribers": "60.8M",
+        "views": "18.3B"
+    },
+    {
+        "rank": 48,
+        "name": "Taylor Swift",
+        "videos": 285,
+        "subscribers": "60.7M",
+        "views": "38.42B"
+    },
+    {
+        "rank": 49,
+        "name": "YOLO AVENTURAS",
+        "videos": 2760,
+        "subscribers": "60.3M",
+        "views": "21.41B"
+    },
+    {
+        "rank": 50,
+        "name": "LooLoo Kids - Nursery Rhymes and Children's Songs",
+        "videos": 967,
+        "subscribers": "59.9M",
+        "views": "36.97B"
+    },
+    {
+        "rank": 51,
+        "name": "Topper Guild",
+        "videos": 1120,
+        "subscribers": "59.4M",
+        "views": "22.25B"
+    },
+    {
+        "rank": 52,
+        "name": "PANDA BOI",
+        "videos": 1170,
+        "subscribers": "58.3M",
+        "views": "26B"
+    },
+    {
+        "rank": 53,
+        "name": "Marshmello",
+        "videos": 523,
+        "subscribers": "57.7M",
+        "views": "16.55B"
+    },
+    {
+        "rank": 54,
+        "name": "Billion Surprise Toys",
+        "videos": 1300,
+        "subscribers": "57.7M",
+        "views": "12.53B"
+    },
+    {
+        "rank": 55,
+        "name": "Shemaroo",
+        "videos": 13270,
+        "subscribers": "57.5M",
+        "views": "26.08B"
+    },
+    {
+        "rank": 56,
+        "name": "Ed Sheeran",
+        "videos": 559,
+        "subscribers": "56M",
+        "views": "34.1B"
+    },
+    {
+        "rank": 57,
+        "name": "Ariana Grande",
+        "videos": 215,
+        "subscribers": "55.6M",
+        "views": "28.14B"
+    },
+    {
+        "rank": 58,
+        "name": "आचार्य प्रशान्त - Acharya Prashant",
+        "videos": 13020,
+        "subscribers": "55.4M",
+        "views": "3.49B"
+    },
+    {
+        "rank": 59,
+        "name": "Mikecrack",
+        "videos": 2090,
+        "subscribers": "55M",
+        "views": "19.91B"
+    },
+    {
+        "rank": 60,
+        "name": "Billie Eilish",
+        "videos": 146,
+        "subscribers": "55M",
+        "views": "18.52B"
+    },
+    {
+        "rank": 61,
+        "name": "Anaya Kandhal",
+        "videos": 2250,
+        "subscribers": "54.8M",
+        "views": "52.25B"
+    },
+    {
+        "rank": 62,
+        "name": "ISSEI / いっせい",
+        "videos": 3430,
+        "subscribers": "54.8M",
+        "views": "39.56B"
+    },
+    {
+        "rank": 63,
+        "name": "SonyMusicIndiaVEVO",
+        "videos": 3720,
+        "subscribers": "54.7M",
+        "views": "34.96B"
+    },
+    {
+        "rank": 64,
+        "name": "StarPlus",
+        "videos": 116240,
+        "subscribers": "53.8M",
+        "views": "59.89B"
+    },
+    {
+        "rank": 65,
+        "name": "Jess No Limit",
+        "videos": 3010,
+        "subscribers": "53.6M",
+        "views": "7.14B"
+    },
+    {
+        "rank": 66,
+        "name": "Saregama Music",
+        "videos": 9750,
+        "subscribers": "53.3M",
+        "views": "25.97B"
+    },
+    {
+        "rank": 67,
+        "name": "JioCinema Kids",
+        "videos": 7760,
+        "subscribers": "53.1M",
+        "views": "25.92B"
+    },
+    {
+        "rank": 68,
+        "name": "Zhong",
+        "videos": 1910,
+        "subscribers": "53.1M",
+        "views": "18.8B"
+    },
+    {
+        "rank": 69,
+        "name": "JuegaGerman",
+        "videos": 2290,
+        "subscribers": "52.7M",
+        "views": "16.51B"
+    },
+    {
+        "rank": 70,
+        "name": "ABS-CBN Entertainment",
+        "videos": 239420,
+        "subscribers": "51.8M",
+        "views": "56.88B"
+    },
+    {
+        "rank": 71,
+        "name": "LUCCAS NETO",
+        "videos": 3140,
+        "subscribers": "51.6M",
+        "views": "30.76B"
+    },
+    {
+        "rank": 72,
+        "name": "Real fools shorts official",
+        "videos": 664,
+        "subscribers": "51.4M",
+        "views": "25B"
+    },
+    {
+        "rank": 73,
+        "name": "ToRung",
+        "videos": 431,
+        "subscribers": "51.3M",
+        "views": "28.07B"
+    },
+    {
+        "rank": 74,
+        "name": "BETER BÖCÜK",
+        "videos": 1860,
+        "subscribers": "51M",
+        "views": "19.36B"
+    },
+    {
+        "rank": 75,
+        "name": "Alfredo Larin",
+        "videos": 1880,
+        "subscribers": "50.3M",
+        "views": "44.04B"
+    },
+    {
+        "rank": 76,
+        "name": "Bad Bunny",
+        "videos": 182,
+        "subscribers": "49.5M",
+        "views": "39.18B"
+    },
+    {
+        "rank": 77,
+        "name": "MrBeast 2",
+        "videos": 130,
+        "subscribers": "49.5M",
+        "views": "6.88B"
+    },
+    {
+        "rank": 78,
+        "name": "shfa",
+        "videos": 1220,
+        "subscribers": "49.4M",
+        "views": "29.36B"
+    },
+    {
+        "rank": 79,
+        "name": "shfa2 - شفا",
+        "videos": 1900,
+        "subscribers": "49.2M",
+        "views": "31.92B"
+    },
+    {
+        "rank": 80,
+        "name": "Ishtar Music",
+        "videos": 4810,
+        "subscribers": "48.8M",
+        "views": "22.33B"
+    },
+    {
+        "rank": 81,
+        "name": "Bispo Bruno Leonardo",
+        "videos": 7270,
+        "subscribers": "48.7M",
+        "views": "7.53B"
+    },
+    {
+        "rank": 82,
+        "name": "Fernanfloo",
+        "videos": 549,
+        "subscribers": "48.5M",
+        "views": "10.79B"
+    },
+    {
+        "rank": 83,
+        "name": "Ricis Official",
+        "videos": 5150,
+        "subscribers": "48.4M",
+        "views": "8.27B"
+    },
+    {
+        "rank": 84,
+        "name": "Dushyant kukreja",
+        "videos": 1400,
+        "subscribers": "47.9M",
+        "views": "31.32B"
+    },
+    {
+        "rank": 85,
+        "name": "HUM TV",
+        "videos": 173890,
+        "subscribers": "47.8M",
+        "views": "41.54B"
+    },
+    {
+        "rank": 86,
+        "name": "Shakira",
+        "videos": 367,
+        "subscribers": "47.8M",
+        "views": "32.56B"
+    },
+    {
+        "rank": 87,
+        "name": "Badabun",
+        "videos": 24750,
+        "subscribers": "47.6M",
+        "views": "19.94B"
+    },
+    {
+        "rank": 88,
+        "name": "Maria Clara & JP",
+        "videos": 953,
+        "subscribers": "47.4M",
+        "views": "31.13B"
+    },
+    {
+        "rank": 89,
+        "name": "ABP NEWS",
+        "videos": 452810,
+        "subscribers": "47.1M",
+        "views": "20.66B"
+    },
+    {
+        "rank": 90,
+        "name": "Felipe Neto",
+        "videos": 5420,
+        "subscribers": "47.1M",
+        "views": "18.41B"
+    },
+    {
+        "rank": 91,
+        "name": "MrBeast Gaming",
+        "videos": 142,
+        "subscribers": "46.8M",
+        "views": "8.59B"
+    },
+    {
+        "rank": 92,
+        "name": "Kimberly Loaiza",
+        "videos": 314,
+        "subscribers": "46.7M",
+        "views": "7.03B"
+    },
+    {
+        "rank": 93,
+        "name": "Alan Walker",
+        "videos": 739,
+        "subscribers": "46.5M",
+        "views": "15.3B"
+    },
+    {
+        "rank": 94,
+        "name": "Speed Records",
+        "videos": 12110,
+        "subscribers": "46.3M",
+        "views": "31.43B"
+    },
+    {
+        "rank": 95,
+        "name": "Você Sabia?",
+        "videos": 1730,
+        "subscribers": "46.3M",
+        "views": "8.26B"
+    },
+    {
+        "rank": 96,
+        "name": "Katy Perry",
+        "videos": 172,
+        "subscribers": "45.9M",
+        "views": "27.89B"
+    },
+    {
+        "rank": 97,
+        "name": "IndiaTV",
+        "videos": 347940,
+        "subscribers": "45.9M",
+        "views": "24.58B"
+    },
+    {
+        "rank": 98,
+        "name": "T-Series Bollywood Classics",
+        "videos": 2200,
+        "subscribers": "45.8M",
+        "views": "31.36B"
+    },
+    {
+        "rank": 99,
+        "name": "PowerKids TV",
+        "videos": 8700,
+        "subscribers": "45.8M",
+        "views": "24.62B"
+    },
+    {
+        "rank": 100,
+        "name": "Shorts Break",
+        "videos": 740,
+        "subscribers": "45.7M",
+        "views": "33.67B"
+    }
+]
