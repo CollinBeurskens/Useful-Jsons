@@ -27,8 +27,11 @@ This repository currently includes the following JSON files:
 - **`world-data.json`**  
   A dataset with global data, potentially covering demographics, geography, economics, or other world statistics.
 
-  - **`history_data.json`**
-  More than 100 scraped wikipedia pages about History
+- **`history_data.json`**
+More than 100 scraped wikipedia pages about History
+
+- **`periodic_table.json`**
+Periodic Table containing detailed chemical and physical properties all elements, including its atomic number, group, period, melting and boiling points, density, relative atomic mass, state at standard temperature, key isotopes, electron configuration, CAS number, and ChemSpider ID.
 
 > **Note**: Each JSON file's structure may vary. Please inspect the individual files for their specific schema and data format.
 
