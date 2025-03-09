@@ -1,0 +1,602 @@
+[
+    {
+        "title": "Simple Sabotage Field Manual",
+        "author": "United States. Office of Strategic Services",
+        "book_url": "https://www.gutenberg.org/ebooks/26184",
+        "download_link": "https://www.gutenberg.org/ebooks/26184.epub3.images"
+    },
+    {
+        "title": "Frankenstein; Or, The Modern Prometheus",
+        "author": "Mary Wollstonecraft Shelley",
+        "book_url": "https://www.gutenberg.org/ebooks/84",
+        "download_link": "https://www.gutenberg.org/ebooks/84.epub3.images"
+    },
+    {
+        "title": "Moby Dick; Or, The Whale",
+        "author": "Herman Melville",
+        "book_url": "https://www.gutenberg.org/ebooks/2701",
+        "download_link": "https://www.gutenberg.org/ebooks/2701.epub3.images"
+    },
+    {
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "book_url": "https://www.gutenberg.org/ebooks/1513",
+        "download_link": "https://www.gutenberg.org/ebooks/1513.epub3.images"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "book_url": "https://www.gutenberg.org/ebooks/1342",
+        "download_link": "https://www.gutenberg.org/ebooks/1342.epub3.images"
+    },
+    {
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "book_url": "https://www.gutenberg.org/ebooks/11",
+        "download_link": "https://www.gutenberg.org/ebooks/11.epub3.images"
+    },
+    {
+        "title": "The Complete Works of William Shakespeare",
+        "author": "William Shakespeare",
+        "book_url": "https://www.gutenberg.org/ebooks/100",
+        "download_link": "https://www.gutenberg.org/ebooks/100.epub3.images"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "book_url": "https://www.gutenberg.org/ebooks/64317",
+        "download_link": "https://www.gutenberg.org/ebooks/64317.epub3.images"
+    },
+    {
+        "title": "Middlemarch",
+        "author": "George Eliot",
+        "book_url": "https://www.gutenberg.org/ebooks/145",
+        "download_link": "https://www.gutenberg.org/ebooks/145.epub3.images"
+    },
+    {
+        "title": "A Room with a View",
+        "author": "E. M. Forster",
+        "book_url": "https://www.gutenberg.org/ebooks/2641",
+        "download_link": "https://www.gutenberg.org/ebooks/2641.epub3.images"
+    },
+    {
+        "title": "A Doll's House : a play",
+        "author": "Henrik Ibsen",
+        "book_url": "https://www.gutenberg.org/ebooks/2542",
+        "download_link": "https://www.gutenberg.org/ebooks/2542.epub3.images"
+    },
+    {
+        "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+        "author": "Louisa May Alcott",
+        "book_url": "https://www.gutenberg.org/ebooks/37106",
+        "download_link": "https://www.gutenberg.org/ebooks/37106.epub3.images"
+    },
+    {
+        "title": "The Blue Castle: a novel",
+        "author": "L. M. Montgomery",
+        "book_url": "https://www.gutenberg.org/ebooks/67979",
+        "download_link": "https://www.gutenberg.org/ebooks/67979.epub3.images"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "book_url": "https://www.gutenberg.org/ebooks/174",
+        "download_link": "https://www.gutenberg.org/ebooks/174.epub3.images"
+    },
+    {
+        "title": "The Enchanted April",
+        "author": "Elizabeth Von Arnim",
+        "book_url": "https://www.gutenberg.org/ebooks/16389",
+        "download_link": "https://www.gutenberg.org/ebooks/16389.epub3.images"
+    },
+    {
+        "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+        "author": "Oscar Wilde",
+        "book_url": "https://www.gutenberg.org/ebooks/844",
+        "download_link": "https://www.gutenberg.org/ebooks/844.epub3.images"
+    },
+    {
+        "title": "A Modest Proposal",
+        "author": "Jonathan Swift",
+        "book_url": "https://www.gutenberg.org/ebooks/1080",
+        "download_link": "https://www.gutenberg.org/ebooks/1080.epub3.images"
+    },
+    {
+        "title": "Cranford",
+        "author": "Elizabeth Cleghorn Gaskell",
+        "book_url": "https://www.gutenberg.org/ebooks/394",
+        "download_link": "https://www.gutenberg.org/ebooks/394.epub3.images"
+    },
+    {
+        "title": "The Adventures of Ferdinand Count Fathom — Complete",
+        "author": "T. Smollett",
+        "book_url": "https://www.gutenberg.org/ebooks/6761",
+        "download_link": "https://www.gutenberg.org/ebooks/6761.epub3.images"
+    },
+    {
+        "title": "The Expedition of Humphry Clinker",
+        "author": "T. Smollett",
+        "book_url": "https://www.gutenberg.org/ebooks/2160",
+        "download_link": "https://www.gutenberg.org/ebooks/2160.epub3.images"
+    },
+    {
+        "title": "The Yellow Wallpaper",
+        "author": "Charlotte Perkins Gilman",
+        "book_url": "https://www.gutenberg.org/ebooks/1952",
+        "download_link": "https://www.gutenberg.org/ebooks/1952.epub3.images"
+    },
+    {
+        "title": "History of Tom Jones, a Foundling",
+        "author": "Henry Fielding",
+        "book_url": "https://www.gutenberg.org/ebooks/6593",
+        "download_link": "https://www.gutenberg.org/ebooks/6593.epub3.images"
+    },
+    {
+        "title": "My Life — Volume 1",
+        "author": "Richard Wagner",
+        "book_url": "https://www.gutenberg.org/ebooks/5197",
+        "download_link": "https://www.gutenberg.org/ebooks/5197.epub3.images"
+    },
+    {
+        "title": "The Adventures of Roderick Random",
+        "author": "T. Smollett",
+        "book_url": "https://www.gutenberg.org/ebooks/4085",
+        "download_link": "https://www.gutenberg.org/ebooks/4085.epub3.images"
+    },
+    {
+        "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "author": "Robert Louis Stevenson",
+        "book_url": "https://www.gutenberg.org/ebooks/43",
+        "download_link": "https://www.gutenberg.org/ebooks/43.epub3.images"
+    },
+    {
+        "title": "Twenty years after",
+        "author": "Alexandre Dumas and Auguste Maquet",
+        "book_url": "https://www.gutenberg.org/ebooks/1259",
+        "download_link": "https://www.gutenberg.org/ebooks/1259.epub3.images"
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "book_url": "https://www.gutenberg.org/ebooks/345",
+        "download_link": "https://www.gutenberg.org/ebooks/345.epub3.images"
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "book_url": "https://www.gutenberg.org/ebooks/2554",
+        "download_link": "https://www.gutenberg.org/ebooks/2554.epub3.images"
+    },
+    {
+        "title": "Metamorphosis",
+        "author": "Franz Kafka",
+        "book_url": "https://www.gutenberg.org/ebooks/5200",
+        "download_link": "https://www.gutenberg.org/ebooks/5200.epub3.images"
+    },
+    {
+        "title": "Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "book_url": "https://www.gutenberg.org/ebooks/76",
+        "download_link": "https://www.gutenberg.org/ebooks/76.epub3.images"
+    },
+    {
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "book_url": "https://www.gutenberg.org/ebooks/25344",
+        "download_link": "https://www.gutenberg.org/ebooks/25344.epub3.images"
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "book_url": "https://www.gutenberg.org/ebooks/98",
+        "download_link": "https://www.gutenberg.org/ebooks/98.epub3.images"
+    },
+    {
+        "title": "The Souls of Black Folk",
+        "author": "W. E. B. Du Bois",
+        "book_url": "https://www.gutenberg.org/ebooks/408",
+        "download_link": "https://www.gutenberg.org/ebooks/408.epub3.images"
+    },
+    {
+        "title": "Jane Eyre: An Autobiography",
+        "author": "Charlotte Brontë",
+        "book_url": "https://www.gutenberg.org/ebooks/1260",
+        "download_link": "https://www.gutenberg.org/ebooks/1260.epub3.images"
+    },
+    {
+        "title": "The Prince",
+        "author": "Niccolò Machiavelli",
+        "book_url": "https://www.gutenberg.org/ebooks/1232",
+        "download_link": "https://www.gutenberg.org/ebooks/1232.epub3.images"
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "book_url": "https://www.gutenberg.org/ebooks/1400",
+        "download_link": "https://www.gutenberg.org/ebooks/1400.epub3.images"
+    },
+    {
+        "title": "Leviathan",
+        "author": "Thomas Hobbes",
+        "book_url": "https://www.gutenberg.org/ebooks/3207",
+        "download_link": "https://www.gutenberg.org/ebooks/3207.epub3.images"
+    },
+    {
+        "title": "The Devil is an Ass",
+        "author": "Ben Jonson",
+        "book_url": "https://www.gutenberg.org/ebooks/50150",
+        "download_link": "https://www.gutenberg.org/ebooks/50150.epub3.images"
+    },
+    {
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "book_url": "https://www.gutenberg.org/ebooks/219",
+        "download_link": "https://www.gutenberg.org/ebooks/219.epub3.images"
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "book_url": "https://www.gutenberg.org/ebooks/1727",
+        "download_link": "https://www.gutenberg.org/ebooks/1727.epub3.images"
+    },
+    {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas and Auguste Maquet",
+        "book_url": "https://www.gutenberg.org/ebooks/1184",
+        "download_link": "https://www.gutenberg.org/ebooks/1184.epub3.images"
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "book_url": "https://www.gutenberg.org/ebooks/28054",
+        "download_link": "https://www.gutenberg.org/ebooks/28054.epub3.images"
+    },
+    {
+        "title": "Thus Spake Zarathustra: A Book for All and None",
+        "author": "Friedrich Wilhelm Nietzsche",
+        "book_url": "https://www.gutenberg.org/ebooks/1998",
+        "download_link": "https://www.gutenberg.org/ebooks/1998.epub3.images"
+    },
+    {
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "book_url": "https://www.gutenberg.org/ebooks/1661",
+        "download_link": "https://www.gutenberg.org/ebooks/1661.epub3.images"
+    },
+    {
+        "title": "Frankenstein; Or, The Modern Prometheus",
+        "author": "Mary Wollstonecraft Shelley",
+        "book_url": "https://www.gutenberg.org/ebooks/41445",
+        "download_link": "https://www.gutenberg.org/ebooks/41445.epub3.images"
+    },
+    {
+        "title": "Don Quijote (Spanish)",
+        "author": "Miguel de Cervantes Saavedra",
+        "book_url": "https://www.gutenberg.org/ebooks/2000",
+        "download_link": "https://www.gutenberg.org/ebooks/2000.epub3.images"
+    },
+    {
+        "title": "War and Peace",
+        "author": "graf Leo Tolstoy",
+        "book_url": "https://www.gutenberg.org/ebooks/2600",
+        "download_link": "https://www.gutenberg.org/ebooks/2600.epub3.images"
+    },
+    {
+        "title": "Du côté de chez Swann (French)",
+        "author": "Marcel Proust",
+        "book_url": "https://www.gutenberg.org/ebooks/2650",
+        "download_link": "https://www.gutenberg.org/ebooks/2650.epub3.images"
+    },
+    {
+        "title": "Second Treatise of Government",
+        "author": "John Locke",
+        "book_url": "https://www.gutenberg.org/ebooks/7370",
+        "download_link": "https://www.gutenberg.org/ebooks/7370.epub3.images"
+    },
+    {
+        "title": "The Iliad",
+        "author": "Homer",
+        "book_url": "https://www.gutenberg.org/ebooks/6130",
+        "download_link": "https://www.gutenberg.org/ebooks/6130.epub3.images"
+    },
+    {
+        "title": "Noli Me Tangere (Tagalog)",
+        "author": "José Rizal",
+        "book_url": "https://www.gutenberg.org/ebooks/20228",
+        "download_link": "https://www.gutenberg.org/ebooks/20228.epub3.images"
+    },
+    {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "book_url": "https://www.gutenberg.org/ebooks/4300",
+        "download_link": "https://www.gutenberg.org/ebooks/4300.epub3.images"
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "book_url": "https://www.gutenberg.org/ebooks/768",
+        "download_link": "https://www.gutenberg.org/ebooks/768.epub3.images"
+    },
+    {
+        "title": "Grimms' Fairy Tales",
+        "author": "Jacob Grimm and Wilhelm Grimm",
+        "book_url": "https://www.gutenberg.org/ebooks/2591",
+        "download_link": "https://www.gutenberg.org/ebooks/2591.epub3.images"
+    },
+    {
+        "title": "Walden, and On The Duty Of Civil Disobedience",
+        "author": "Henry David Thoreau",
+        "book_url": "https://www.gutenberg.org/ebooks/205",
+        "download_link": "https://www.gutenberg.org/ebooks/205.epub3.images"
+    },
+    {
+        "title": "Beyond Good and Evil",
+        "author": "Friedrich Wilhelm Nietzsche",
+        "book_url": "https://www.gutenberg.org/ebooks/4363",
+        "download_link": "https://www.gutenberg.org/ebooks/4363.epub3.images"
+    },
+    {
+        "title": "Ang \"Filibusterismo\" (Karugtóng ng Noli Me Tangere) (Tagalog)",
+        "author": "José Rizal",
+        "book_url": "https://www.gutenberg.org/ebooks/47629",
+        "download_link": "https://www.gutenberg.org/ebooks/47629.epub3.images"
+    },
+    {
+        "title": "Beowulf: An Anglo-Saxon Epic Poem",
+        "author": "Unknown Author",
+        "book_url": "https://www.gutenberg.org/ebooks/16328",
+        "download_link": "https://www.gutenberg.org/ebooks/16328.epub3.images"
+    },
+    {
+        "title": "The Republic",
+        "author": "Plato",
+        "book_url": "https://www.gutenberg.org/ebooks/1497",
+        "download_link": "https://www.gutenberg.org/ebooks/1497.epub3.images"
+    },
+    {
+        "title": "呻吟語 (Chinese)",
+        "author": "Kun Lü",
+        "book_url": "https://www.gutenberg.org/ebooks/25558",
+        "download_link": "https://www.gutenberg.org/ebooks/25558.epub3.images"
+    },
+    {
+        "title": "The Adventures of Tom Sawyer, Complete",
+        "author": "Mark Twain",
+        "book_url": "https://www.gutenberg.org/ebooks/74",
+        "download_link": "https://www.gutenberg.org/ebooks/74.epub3.images"
+    },
+    {
+        "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+        "author": "Charles Dickens",
+        "book_url": "https://www.gutenberg.org/ebooks/46",
+        "download_link": "https://www.gutenberg.org/ebooks/46.epub3.images"
+    },
+    {
+        "title": "Anne of Green Gables",
+        "author": "L. M. Montgomery",
+        "book_url": "https://www.gutenberg.org/ebooks/45",
+        "download_link": "https://www.gutenberg.org/ebooks/45.epub3.images"
+    },
+    {
+        "title": "The Reign of Greed",
+        "author": "José Rizal",
+        "book_url": "https://www.gutenberg.org/ebooks/10676",
+        "download_link": "https://www.gutenberg.org/ebooks/10676.epub3.images"
+    },
+    {
+        "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+        "author": "Frederick Douglass",
+        "book_url": "https://www.gutenberg.org/ebooks/23",
+        "download_link": "https://www.gutenberg.org/ebooks/23.epub3.images"
+    },
+    {
+        "title": "The Confessions of St. Augustine",
+        "author": "Bishop of Hippo Saint Augustine",
+        "book_url": "https://www.gutenberg.org/ebooks/3296",
+        "download_link": "https://www.gutenberg.org/ebooks/3296.epub3.images"
+    },
+    {
+        "title": "The Wonderful Wizard of Oz",
+        "author": "L. Frank Baum",
+        "book_url": "https://www.gutenberg.org/ebooks/55",
+        "download_link": "https://www.gutenberg.org/ebooks/55.epub3.images"
+    },
+    {
+        "title": "Dubliners",
+        "author": "James Joyce",
+        "book_url": "https://www.gutenberg.org/ebooks/2814",
+        "download_link": "https://www.gutenberg.org/ebooks/2814.epub3.images"
+    },
+    {
+        "title": "White Nights and Other Stories",
+        "author": "Fyodor Dostoyevsky",
+        "book_url": "https://www.gutenberg.org/ebooks/36034",
+        "download_link": "https://www.gutenberg.org/ebooks/36034.epub3.images"
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "book_url": "https://www.gutenberg.org/ebooks/135",
+        "download_link": "https://www.gutenberg.org/ebooks/135.epub3.images"
+    },
+    {
+        "title": "The divine comedy",
+        "author": "Dante Alighieri",
+        "book_url": "https://www.gutenberg.org/ebooks/8800",
+        "download_link": "https://www.gutenberg.org/ebooks/8800.epub3.images"
+    },
+    {
+        "title": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African",
+        "author": "Olaudah Equiano",
+        "book_url": "https://www.gutenberg.org/ebooks/15399",
+        "download_link": "https://www.gutenberg.org/ebooks/15399.epub3.images"
+    },
+    {
+        "title": "The Romance of Lust: A classic Victorian erotic novel",
+        "author": "Anonymous",
+        "book_url": "https://www.gutenberg.org/ebooks/30254",
+        "download_link": "https://www.gutenberg.org/ebooks/30254.epub3.images"
+    },
+    {
+        "title": "The Art of War",
+        "author": "active 6th century B.C. Sunzi",
+        "book_url": "https://www.gutenberg.org/ebooks/132",
+        "download_link": "https://www.gutenberg.org/ebooks/132.epub3.images"
+    },
+    {
+        "title": "Le Morte d'Arthur: Volume 1",
+        "author": "Sir Thomas Malory",
+        "book_url": "https://www.gutenberg.org/ebooks/1251",
+        "download_link": "https://www.gutenberg.org/ebooks/1251.epub3.images"
+    },
+    {
+        "title": "On Liberty",
+        "author": "John Stuart Mill",
+        "book_url": "https://www.gutenberg.org/ebooks/34901",
+        "download_link": "https://www.gutenberg.org/ebooks/34901.epub3.images"
+    },
+    {
+        "title": "Carmilla",
+        "author": "Joseph Sheridan Le Fanu",
+        "book_url": "https://www.gutenberg.org/ebooks/10007",
+        "download_link": "https://www.gutenberg.org/ebooks/10007.epub3.images"
+    },
+    {
+        "title": "The Legend of Sleepy Hollow",
+        "author": "Washington Irving",
+        "book_url": "https://www.gutenberg.org/ebooks/41",
+        "download_link": "https://www.gutenberg.org/ebooks/41.epub3.images"
+    },
+    {
+        "title": "The History of the Peloponnesian War",
+        "author": "Thucydides",
+        "book_url": "https://www.gutenberg.org/ebooks/7142",
+        "download_link": "https://www.gutenberg.org/ebooks/7142.epub3.images"
+    },
+    {
+        "title": "The Works of Edgar Allan Poe — Volume 2",
+        "author": "Edgar Allan Poe",
+        "book_url": "https://www.gutenberg.org/ebooks/2148",
+        "download_link": "https://www.gutenberg.org/ebooks/2148.epub3.images"
+    },
+    {
+        "title": "Florante at Laura (Tagalog)",
+        "author": "Francisco Balagtas",
+        "book_url": "https://www.gutenberg.org/ebooks/15845",
+        "download_link": "https://www.gutenberg.org/ebooks/15845.epub3.images"
+    },
+    {
+        "title": "Novo dicionário da língua portuguesa (Portuguese)",
+        "author": "Cândido de Figueiredo",
+        "book_url": "https://www.gutenberg.org/ebooks/31552",
+        "download_link": "https://www.gutenberg.org/ebooks/31552.epub3.images"
+    },
+    {
+        "title": "A Study in Scarlet",
+        "author": "Arthur Conan Doyle",
+        "book_url": "https://www.gutenberg.org/ebooks/244",
+        "download_link": "https://www.gutenberg.org/ebooks/244.epub3.images"
+    },
+    {
+        "title": "How the Other Half Lives: Studies Among the Tenements of New York",
+        "author": "Jacob A. Riis",
+        "book_url": "https://www.gutenberg.org/ebooks/45502",
+        "download_link": "https://www.gutenberg.org/ebooks/45502.epub3.images"
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes Saavedra",
+        "book_url": "https://www.gutenberg.org/ebooks/996",
+        "download_link": "https://www.gutenberg.org/ebooks/996.epub3.images"
+    },
+    {
+        "title": "Little Women",
+        "author": "Louisa May Alcott",
+        "book_url": "https://www.gutenberg.org/ebooks/514",
+        "download_link": "https://www.gutenberg.org/ebooks/514.epub3.images"
+    },
+    {
+        "title": "Meditations",
+        "author": "Emperor of Rome Marcus Aurelius",
+        "book_url": "https://www.gutenberg.org/ebooks/2680",
+        "download_link": "https://www.gutenberg.org/ebooks/2680.epub3.images"
+    },
+    {
+        "title": "Spenser's The Faerie Queene, Book I",
+        "author": "Edmund Spenser",
+        "book_url": "https://www.gutenberg.org/ebooks/15272",
+        "download_link": "https://www.gutenberg.org/ebooks/15272.epub3.images"
+    },
+    {
+        "title": "The War of the Worlds",
+        "author": "H. G. Wells",
+        "book_url": "https://www.gutenberg.org/ebooks/36",
+        "download_link": "https://www.gutenberg.org/ebooks/36.epub3.images"
+    },
+    {
+        "title": "Plays",
+        "author": "Susan Glaspell",
+        "book_url": "https://www.gutenberg.org/ebooks/10623",
+        "download_link": "https://www.gutenberg.org/ebooks/10623.epub3.images"
+    },
+    {
+        "title": "The Tragical History of Doctor Faustus",
+        "author": "Christopher Marlowe",
+        "book_url": "https://www.gutenberg.org/ebooks/779",
+        "download_link": "https://www.gutenberg.org/ebooks/779.epub3.images"
+    },
+    {
+        "title": "The Kama Sutra of Vatsyayana",
+        "author": "Vatsyayana",
+        "book_url": "https://www.gutenberg.org/ebooks/27827",
+        "download_link": "https://www.gutenberg.org/ebooks/27827.epub3.images"
+    },
+    {
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "book_url": "https://www.gutenberg.org/ebooks/730",
+        "download_link": "https://www.gutenberg.org/ebooks/730.epub3.images"
+    },
+    {
+        "title": "Candide",
+        "author": "Voltaire",
+        "book_url": "https://www.gutenberg.org/ebooks/19942",
+        "download_link": "https://www.gutenberg.org/ebooks/19942.epub3.images"
+    },
+    {
+        "title": "Emma",
+        "author": "Jane Austen",
+        "book_url": "https://www.gutenberg.org/ebooks/158",
+        "download_link": "https://www.gutenberg.org/ebooks/158.epub3.images"
+    },
+    {
+        "title": "The Problems of Philosophy",
+        "author": "Bertrand Russell",
+        "book_url": "https://www.gutenberg.org/ebooks/5827",
+        "download_link": "https://www.gutenberg.org/ebooks/5827.epub3.images"
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "graf Leo Tolstoy",
+        "book_url": "https://www.gutenberg.org/ebooks/1399",
+        "download_link": "https://www.gutenberg.org/ebooks/1399.epub3.images"
+    },
+    {
+        "title": "Frankenstein; Or, The Modern Prometheus",
+        "author": "Mary Wollstonecraft Shelley",
+        "book_url": "https://www.gutenberg.org/ebooks/42324",
+        "download_link": "https://www.gutenberg.org/ebooks/42324.epub3.images"
+    },
+    {
+        "title": "Josefine Mutzenbacher (German)",
+        "author": "Felix Salten",
+        "book_url": "https://www.gutenberg.org/ebooks/31284",
+        "download_link": "https://www.gutenberg.org/ebooks/31284.epub3.images"
+    },
+    {
+        "title": "Winnie-the-Pooh",
+        "author": "A. A. Milne",
+        "book_url": "https://www.gutenberg.org/ebooks/67098",
+        "download_link": "https://www.gutenberg.org/ebooks/67098.epub3.images"
+    }
+]
